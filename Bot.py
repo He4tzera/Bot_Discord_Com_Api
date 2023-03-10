@@ -1,4 +1,4 @@
-import top_Team
+
 import discord
 import requests
 import json
