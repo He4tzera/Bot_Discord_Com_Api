@@ -31,4 +31,4 @@ intents.members = True
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTA4Mzc2MzMyNzIxOTUzMTgzNg.GmvLlJ.7snp2uK4JWtXY8DRONoznVKNonl5Uq-5pgfCTo')
+client.run('Token')
